@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-  👨‍💻 A Software Engineering graduate from York University with a deep interest in full-stack development, embedded systems, and clean, scalable code. <br><br>
-  💡 I thrive on building practical, user-centered software — from responsive web apps and automated systems to real-time data solutions. <br><br>
-  🧠 My academic journey and hands-on projects have shaped me into a detail-oriented problem solver who loves exploring new technologies and turning complex challenges into elegant solutions. <br><br>
-  🚀 Whether I'm working with Java, Python, SQL, React, or Spring Boot — I'm driven by curiosity, collaboration, and the desire to keep leveling up. <br><br>
-  🤝 <strong>Let’s connect, collaborate, and create something impactful!</strong>
+  A Software Engineering graduate from York University with a deep interest in full-stack development, embedded systems, and clean, scalable code. <br><br>
+  I thrive on building practical, user-centered software — from responsive web apps and automated systems to real-time data solutions. <br><br>
+  My academic journey and hands-on projects have shaped me into a detail-oriented problem solver who loves exploring new technologies and turning complex challenges into elegant solutions. <br><br>
+  Whether I'm working with Java, Python, SQL, React, or Spring Boot — I'm driven by curiosity, collaboration, and the desire to keep leveling up. <br><br>
+  <strong>Let’s connect, collaborate, and create something impactful!</strong>
 </p>
 
 🛠️ **Languages & Tools**  
